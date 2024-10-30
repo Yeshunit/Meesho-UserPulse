@@ -19,13 +19,13 @@ The **Personalized Discovery and Engagement Enhancement System** is designed for
 4. **Search Trends**: Comparing voice and text search interactions over time provides insights into user preferences and helps inform future search feature developments.
 
 ## Main Files
-- **/queries/key_performance_indicators.sql**: Contains SQL queries to calculate key performance indicators, including voice search adoption rate and trending products.
+- [key_performance_indicators.sql](queries/key_performance_indicators.sql): Contains SQL queries to calculate key performance indicators, including voice search adoption rate and trending products.
 
-- **/data/users_data.sql**: SQL file to insert sample user data into the Users table, which includes user details and segments.
+- [users_data.sql](data/users_data.sql): SQL file to insert sample user data into the Users table, which includes user details and segments.
 
-- **/data/products_data.sql**: SQL file to insert sample product data into the Products table, detailing product names, categories, prices, and stock levels.
+- [products_data.sql](data/products_data.sql): SQL file to insert sample product data into the Products table, detailing product names, categories, prices, and stock levels.
 
-- **/documentation/KPIS.md**: A dedicated markdown file describing the KPIs used in this project, including methodologies and their significance in measuring success.
+- [KPIS.md](documentation/KPIS.md): A dedicated markdown file describing the KPIs used in this project, including methodologies and their significance in measuring success.
 
 ## Conclusion
 The **Personalized Discovery and Engagement Enhancement System** leverages data analytics to create a user-centric shopping experience for Meesho. By focusing on KPIs such as voice search adoption and trending products, the project aims to enhance user engagement and optimize product discovery. This initiative not only enriches the user experience but also provides valuable insights that can guide future product strategies.
