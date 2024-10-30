@@ -19,7 +19,7 @@ The **Personalized Discovery and Engagement Enhancement System** is designed for
 4. **Search Trends**: Comparing voice and text search interactions over time provides insights into user preferences and helps inform future search feature developments.
 
 ## Main Files
-- [key_performance_indicators.sql](queries/key_performance_indicators.sql): Contains SQL queries to calculate key performance indicators, including voice search adoption rate and trending products.
+- [key_performance_indicators.sql]([queries/key_performance_indicators.sql](https://github.com/Yeshunit/Meesho-UserPulse/blob/main/key_performance_indicators.sql)): Contains SQL queries to calculate key performance indicators, including voice search adoption rate and trending products.
 
 - [users_data.sql](data/users_data.sql): SQL file to insert sample user data into the Users table, which includes user details and segments.
 
